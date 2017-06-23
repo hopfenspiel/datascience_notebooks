@@ -1,4 +1,4 @@
-# datascience_notebooks
+# Data Science Notebooks
 
 ## Repo Purpose
 
